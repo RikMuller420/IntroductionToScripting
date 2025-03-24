@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SizeEnlarger : MonoBehaviour
+public class SizeIncreaser : MonoBehaviour
 {
     [SerializeField] private float _growSpeed = 0.1f;
 
